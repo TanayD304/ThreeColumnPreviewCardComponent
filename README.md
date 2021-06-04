@@ -48,11 +48,12 @@ Users should be able to:
 ### What I learned
 
 - The major learning from this project is use of CSS selectors. If you take a look at the stylesheet you will see that I havent used a single id or class to select an element
-- This project helped me getting better at Flexbox and Units of CSS
+- This project helped me getting better at Flexbox and Units of CSS.
+- There is also a bit use of Transition and Transform.
 
 ### Continued development
 
-I would like to invest a little more time on Flexbox to gain a perfect hand on it. For that I am planning to make few more projects weekly.
+I would like to invest a little more time on Flexbox to gain a perfect hand on it. For that I am planning to make few more projects weekly. Also I would like to work more on Transition and Transform.
 
 ### Useful resources
 
