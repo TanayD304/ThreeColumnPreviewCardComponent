@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Repo Link]()
-- Live Site URL: [Github Repo Link]()
+- Solution URL: [Github Repo Link](https://github.com/TanayD304/ThreeColumnPreviewCardComponent)
+- Live Site URL: [Live Site](https://vigilant-cori-ad8bf5.netlify.app/)
 
 ## My process
 
