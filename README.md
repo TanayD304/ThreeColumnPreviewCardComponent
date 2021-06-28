@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Repo Link](https://github.com/TanayD304/ThreeColumnPreviewCardComponent)
-- Live Site URL: [Live Site](https://vigilant-cori-ad8bf5.netlify.app/)
+- Live Site URL: [Live Site](https://project2-by-tanay.netlify.app/)
 
 ## My process
 
